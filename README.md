@@ -1,4 +1,5 @@
 # vue-calc
+Basic Calculator in vue.js 
 
 ## Project setup
 ```
