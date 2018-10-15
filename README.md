@@ -1,6 +1,9 @@
 # vue-calc
 Basic Calculator in vue.js 
 
+# Demo
+[https://app.netlify.com/sites/infallible-swirles-2a3d47/deploys/5bc4decbdd28ef763a11bac1](https://app.netlify.com/sites/infallible-swirles-2a3d47/deploys/5bc4decbdd28ef763a11bac1)
+
 ## Project setup
 ```
 yarn install
